@@ -10,7 +10,7 @@
 
 <div display="flex" justify-content="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IT21256264&show_icons=true&theme=radical" alt="Anurag's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT21256264&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT21256264&langs_count=8&layout=compact&theme=radical" alt="Top Langs" />
 </div>
 
 <h3 align="left">Connect with me:</h3>
